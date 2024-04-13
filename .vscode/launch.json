@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-RabbitmqDemoApplication<rabbitmq-demo>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "dev.kwanghui.rabbitmqdemo.RabbitmqDemoApplication",
+      "projectName": "rabbitmq-demo",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
